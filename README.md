@@ -45,7 +45,7 @@ Q10: Top-spending customer in each country
 ### ✅ Sample Insights
 - USA has the highest number of invoices.
 
-- František Wichterlová is the top customer with total spend of 144.54.
+- Frantisek Wichterlova is the top customer with total spend of 144.54.
 
 - AC/DC is the top rock artist with 18 songs.
 
